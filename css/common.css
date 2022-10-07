@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,400;0,700;1,400;1,700&family=Roboto&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root {
+    font-family: 'Barlow Condensed', sans-serif;
+    --text-color: #222;
+    --body-color: #ff6e8b;
+}
+
+body {
+    color: var(--text-color);
+    background-color: var(--body-color);
+}
